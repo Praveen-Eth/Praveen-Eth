@@ -1,5 +1,5 @@
 
-<link rel="stylesheet" type="text/css" href="styles.css">
+<link rel="stylesheet" type="text/css" href="To_do_app/styles.css">
 <div class="shimmer">
   <!-- Your content goes here -->
   - 👋 Hi, I’m @Praveen-Eth   :)
