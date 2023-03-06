@@ -1,4 +1,9 @@
 
+<link rel="stylesheet" type="text/css" href="styles.css">
+<div class="shimmer">
+  <!-- Your content goes here -->
+  - 👋 Hi, I’m @Praveen-Eth   :)
+</div>
 - 👋 Hi, I’m @Praveen-Eth   :)
 - 👀 I’m interested in Android development,Block_chain tech
 - 🌱 I’m currently learning Android development
