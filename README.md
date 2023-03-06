@@ -1,3 +1,17 @@
+<script src="https://unpkg.com/shimmerjs@1.0.3/dist/shimmer.min.js"></script>
+<div id="my-container">
+  <h1>Welcome to my page</h1>
+  <p>This is some content that will be replaced with the shimmer effect</p>
+</div>
+const myContainer = document.getElementById('my-container');
+shimmer({
+  nodes: [myContainer],
+  options: {
+    numCols: 10,
+    duration: 1000,
+    delay: 200,
+  },
+});
 - 👋 Hi, I’m @Praveen-Eth   :)
 - 👀 I’m interested in Android development,Block_chain tech
 - 🌱 I’m currently learning Android development
